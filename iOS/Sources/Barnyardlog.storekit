@@ -1,0 +1,42 @@
+{
+  "identifier" : "Barnyardlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "BARNYARDLOGGROUP",
+      "localizations" : [],
+      "name" : "Barnyard Log Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "barnyardlog_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Egg-count trend chart and multi-animal profiles",
+              "displayName" : "Barnyard Log Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.barnyardlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Barnyard Log Pro Monthly",
+          "subscriptionGroupID" : "BARNYARDLOGGROUP",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
